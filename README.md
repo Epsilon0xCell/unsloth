@@ -1,3 +1,7 @@
+![Banner: a cedar workbench in a greenhouse holding one wired bonsai pine in a terracotta pot, shaped like a full-grown forest tree in miniature, pruning tools and a coil of wire laid in a row before it and a metal watering can beside the pot](banner.png)
+
+<p align="center"><img src="logo.png" alt="unsloth logo: a small bonsai pine in a terracotta pot photographed straight on against a cedar bench, its trunk wrapped in training wire, its canopy shaped like a full-grown tree in miniature and one tiny brass tag standing in the moss at its base, the photograph set in a circular vignette on black" width="200"></p>
+
 <div align="center">
 
   <a href="https://unsloth.ai"><picture>
